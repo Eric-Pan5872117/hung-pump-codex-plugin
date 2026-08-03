@@ -1,0 +1,49 @@
+{
+  "name": "hung-pump",
+  "version": "0.1.0+codex.20260803132155",
+  "description": "APP Arwana pump engineering and Taiwan market assistant for selection, VFD control, assembly, and market analysis.",
+  "author": {
+    "name": "Hung Pump Industrial Co., Ltd. (APP Arwana)",
+    "email": "a5872117@gmail.com",
+    "url": "https://www.hungpump.com/"
+  },
+  "homepage": "https://www.pumps.com.tw/",
+  "repository": "https://github.com/Eric-Pan5872117/hung-pump-codex-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "pump",
+    "vertical-multistage-pump",
+    "vfd",
+    "app-arwana",
+    "taiwan"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Hung Pump \u00b7 APP Arwana",
+    "shortDescription": "\u6cf5\u6d66\u9078\u578b\u3001VFD \u96fb\u63a7\u3001\u7cfb\u7d71\u7d44\u7acb\u8207\u53f0\u7063\u5e02\u5834\u5206\u6790\u3002",
+    "longDescription": "\u5354\u52a9\u5b8f\u6cf5\u8207 APP Arwana \u57f7\u884c\u7acb\u5f0f\u591a\u6bb5\u6cf5\u9078\u578b\u3001\u8b8a\u983b\u6046\u58d3\u63a7\u5236\u898f\u5283\u3001\u6cf5\u6d66\u7cfb\u7d71\u7d44\u7acb\uff0c\u4ee5\u53ca\u53f0\u7063\u5e02\u5834\u7814\u7a76\uff1b\u4ee5\u53ef\u8ffd\u6eaf\u5047\u8a2d\u3001\u5de5\u7a0b\u9a57\u8b49\u8207\u4eba\u5de5\u6838\u51c6\u70ba\u54c1\u8cea\u908a\u754c\u3002",
+    "developerName": "Hung Pump Industrial \u00b7 APP Arwana",
+    "category": "Engineering",
+    "websiteURL": "https://www.pumps.com.tw/",
+    "privacyPolicyURL": "https://www.hungpump.com/privacy/hung-pump-codex-plugin",
+    "termsOfServiceURL": "https://www.hungpump.com/terms/hung-pump-codex-plugin",
+    "brandColor": "#14472C",
+    "composerIcon": "./assets/app-icon.png",
+    "logo": "./assets/app-logo.png",
+    "screenshots": [
+      "./assets/screenshot-pump-selection.png",
+      "./assets/screenshot-vfd-control.png",
+      "./assets/screenshot-system-market.png"
+    ],
+    "capabilities": [
+      "Analysis",
+      "Planning",
+      "Engineering"
+    ],
+    "defaultPrompt": [
+      "\u4f9d\u6d41\u91cf\u3001\u63da\u7a0b\u8207\u4ecb\u8cea\u689d\u4ef6\uff0c\u5efa\u7acb BNF \u7cfb\u5217\u6cf5\u6d66\u9078\u578b\u9700\u6c42\u8868\u3002",
+      "\u898f\u5283\u4e00\u5957 VFD \u5b9a\u58d3\u4f9b\u6c34\u7cfb\u7d71\u7684\u63a7\u5236\u908f\u8f2f\u8207\u4fdd\u8b77\u6e05\u55ae\u3002",
+      "\u5206\u6790\u53f0\u7063\u7acb\u5f0f\u591a\u6bb5\u6cf5\u5e02\u5834\uff0c\u6a19\u51fa\u9700\u5373\u6642\u67e5\u8b49\u7684\u8cc7\u6599\u3002"
+    ]
+  }
+}
