@@ -1,10 +1,10 @@
 {
   "name": "hung-pump",
-  "version": "0.1.0+codex.20260803132155",
+  "version": "0.1.0+codex.20260803140630",
   "description": "APP Arwana pump engineering and Taiwan market assistant for selection, VFD control, assembly, and market analysis.",
   "author": {
     "name": "Hung Pump Industrial Co., Ltd. (APP Arwana)",
-    "email": "a5872117@gmail.com",
+    "email": "info@hungpump.com",
     "url": "https://www.hungpump.com/"
   },
   "homepage": "https://www.pumps.com.tw/",
@@ -25,8 +25,8 @@
     "developerName": "Hung Pump Industrial \u00b7 APP Arwana",
     "category": "Engineering",
     "websiteURL": "https://www.pumps.com.tw/",
-    "privacyPolicyURL": "https://www.hungpump.com/privacy/hung-pump-codex-plugin",
-    "termsOfServiceURL": "https://www.hungpump.com/terms/hung-pump-codex-plugin",
+    "privacyPolicyURL": "https://hung-pump-plugin-legal.qbhskd7pcw.chatgpt.site/privacy/hung-pump-codex-plugin",
+    "termsOfServiceURL": "https://hung-pump-plugin-legal.qbhskd7pcw.chatgpt.site/terms/hung-pump-codex-plugin",
     "brandColor": "#14472C",
     "composerIcon": "./assets/app-icon.png",
     "logo": "./assets/app-logo.png",
